@@ -3,7 +3,15 @@ return `「 *PRICE LIST* 」
 							
 ⬣ PRICE SEWABOT
 
-⬡ Permanen+User Prem=7k
+List Sewa GrahaBotz
+
+1 Hari=Free
+1 Minggu=5k
+1 bulan=8k
+Permanen=10k
+
+Minat? Chat di bawah
+wa.me/6285892696324
 
 ⬣ RULES:
 
@@ -16,7 +24,7 @@ return `「 *PRICE LIST* 」
 
 
 ⬣ MINAT? PM
-⬡ http://wa.me/6282350939266
+⬡ http://wa.me/6285892696324
 
 
 NOTE : 
